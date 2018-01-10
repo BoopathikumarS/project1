@@ -1,0 +1,42 @@
+1.	install git
+
+2. 	git --version
+	mkdir gitdemo
+	cd gitdemo
+
+3.	git config --global user.name 'Vasiahli Kulkarni'
+        git config --global user.name 'Boopathi kumar S' 
+4.	git config --global user.email 'boopathi-kumar.samiappan@capgemini.com'
+5.	git config -l
+
+6.	git init project1
+	cd project1
+	tree .git
+
+7.	git  init --bare bareproject
+	tree bareproject1
+
+8.	http://hubot.github.com
+-------------------------------------
+
+Hi All, 
+1. Download GIT from https://git-scm.com/downloads 
+2. Install it with not chages in default selections, during installation. 
+3. Download the reference PDFs 
+https://fts.capgemini.com/private/18130794492041/GIT-ClassBook-Lesson01.zip 
+https://fts.capgemini.com/private/18130794492041/GIT-ClassBook-Lesson02.zip 
+https://fts.capgemini.com/private/22094756575368/demo1.txt 
+https://fts.capgemini.com/private/3187165918482/GIT.zip
+
+
+--------------------------------------------
+
+https://github.com/BoopathikumarS/project1
+
+https://guides.github.com/activities/hello-world/ 
+
+https://help.github.com/articles/adding-a-file-to-a-repository/ 
+
+https://fts.capgemini.com/private/3674366325656/PushlocalfiletoGitHubrepo.pdf
+
+https://fts.capgemini.com/private/26966047285359/Part_handsOn1.pdf
